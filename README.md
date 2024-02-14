@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danuja Mayadunne</h1>
-<h3 align="center">An interactive frontend web developer from Sri Lanka.</h3>
+<h3 align="center">An interactive full-stack web developer based in Sri Lanka.</h3>
 
 - 👨‍💻 All of my projects are available at [mayadunneandco.com](mayadunneandco.com)
 
