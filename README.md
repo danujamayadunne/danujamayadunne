@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danuja Mayadunne</h1>
 <h3 align="center">An interactive full-stack web developer based in Sri Lanka.</h3>
 
-- 👨‍💻 All of my projects are available at [mayadunneandco.com](mayadunneandco.com)
+- 👨‍💻 All of my projects are available at <a href="mayadunneandco.com" target="_blank">mayadunneandco.com<a/>
 
 - ⚡ Fun fact **I love Next js.**
 
