@@ -1,7 +1,7 @@
 <h1 align="center">Ayubowan 🙏, I'm Danuja Mayadunne</h1>
 <h3 align="center">An interactive full-stack web developer based in Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **Backend development**🙏🏼
+- 🌱 I’m currently learning **Backend development**
 
 - 💬 Ask me about **Next.js, Bootstrap, or anything related to web dev.**
 
