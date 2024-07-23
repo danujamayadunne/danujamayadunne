@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **Next.js, Bootstrap, Tailwind CSS, or anything related to web dev.**
+- 💬 Ask me about **Next.js, Bootstrap, Tailwind CSS, or anything related to web development.**
 
 - ⚡ Fun fact: **I think i'm obsessed with Next.js**
 
