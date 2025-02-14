@@ -1,6 +1,6 @@
 # Ayubowan, I'm Danuja Mayadunne
 
-### An Interactive Full-Stack Web Developer based in Sri Lanka
+An Interactive Full-Stack Web Developer based in Sri Lanka
 
 ```typescript
 const skills = {
