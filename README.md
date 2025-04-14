@@ -8,5 +8,5 @@ const skills = {
   styling: ['Tailwind CSS', 'Bootstrap', 'CSS'],
   backend: ['Node.js'],
   database: ['MongoDB'],
-  cloud: ['AWS', 'Cloudflare]
+  cloud: ['AWS', 'Cloudflare']
 };
