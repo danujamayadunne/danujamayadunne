@@ -1,6 +1,6 @@
-# Ayubowan, I'm Danuja Mayadunne
+### ආයුබෝවන් // Hello 👋
 
-An Interactive Full-Stack Web Developer
+I'm Danuja Mayadunne, an interactive full-stack web developer
 
 ```typescript
 const skills = {
